@@ -1,24 +1,9 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Muhammad Hasan
-<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/muhammadrhasan/" target="_blank" rel="noreferrer">Hasan</a> is a
-  Data Analyst with 5+ years of experience transforming complex data into actionable insights
+<h1 align="center"><font face="Arial">Hey there 👋, I'm Hasan <a href="www.linkedin.com/in/muhammadrhasan/" target="_blank" rel="noreferrer">Hasan</a>
+<h3 align="center"><font face="Arial">Data Analyst with 5+ years of experience transforming complex data into actionable insights
 
   
 
-
-  <!-- GIF-->
-<img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" />
-  <!-- GIF-->
-<img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-
-
-<!-- Header Section -->
-<h3 align="center">A data storyteller bridging the gap between numbers and strategy.</h3>
-
-<hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 <hr>
 
@@ -27,6 +12,8 @@ Like My Work?
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+
 
 ### Talking about Personal Stuff:
 
@@ -45,7 +32,9 @@ Like My Work?
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
-
+✨ Random Dev Quote:</h10>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadrashedul&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadrashedul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadrashedul" alt="muhammadrashedul" /></a> </p>
