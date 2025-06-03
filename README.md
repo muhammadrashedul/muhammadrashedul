@@ -19,7 +19,7 @@ Like My Work?
 
 - 🛠 &nbsp;I’m currently working with data pipelines
 - 🚀 &nbsp;I’m currently exploring Generative AI
-- 💬 &nbsp;Ask me anything analytics-related!I am happy to help.
+- 💬 &nbsp;Ask me anything analytics-related!
 - 👾 &nbsp;Fun fact: I once made a dashboard just to track my coffee consumption.
 - 💬 Ask me about **data visualization.**
 - ⚡ Fun fact **I once made a dashboard just to track my coffee consumption.**
