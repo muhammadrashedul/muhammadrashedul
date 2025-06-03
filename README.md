@@ -21,7 +21,6 @@ Like My Work?
 - 🚀 &nbsp;I’m currently exploring Generative AI
 - 💬 &nbsp;Ask me anything analytics-related!
 - 👾 &nbsp;Fun fact: I once made a dashboard just to track my coffee consumption.
-- 💬 Ask me about **data visualization.**
 - ⚡ Fun fact **I once made a dashboard just to track my coffee consumption.**
 - 📫 &nbsp;Reach me out: m.hasanrashedul@gmail.com
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zF1YHwBog5pZkwdGBc-B7LlwVO5HfV9X/view?usp=sharing](https://drive.google.com/file/d/1zF1YHwBog5pZkwdGBc-B7LlwVO5HfV9X/view?usp=sharing)
