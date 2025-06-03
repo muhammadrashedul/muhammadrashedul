@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hey there 👋, I'm Hasan <a href="www.linkedin.com/in/muhammadrhasan/" target="_blank" rel="noreferrer">Hasan</a>
+<h1 align="center"><font face="Arial">Hey there 👋, I'm <a href="www.linkedin.com/in/muhammadrhasan/" target="_blank" rel="noreferrer">Hasan</a>
 <h3 align="center"><font face="Arial">Data Analyst with 5+ years of experience transforming complex data into actionable insights
 
   
