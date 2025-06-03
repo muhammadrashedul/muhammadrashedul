@@ -4,10 +4,8 @@
   Data Analyst with 5+ years of experience transforming complex data into actionable insights
 
   
-  <!-- GIF-->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/tfoldi/tableau-js-api-without-embed/refs/heads/master/tableau-js-chart.gif" />
-  <!-- GIF-->
-<img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" />
+
+
   <!-- GIF-->
 <img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" />
   <!-- GIF-->
